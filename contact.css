@@ -1,0 +1,9 @@
+main {
+    text-align: center;
+}
+
+main img {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+}

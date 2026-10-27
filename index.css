@@ -1,0 +1,9 @@
+main img {
+    width: 200px;
+    max-width: 100%;
+    height: auto;
+}
+
+main li {
+    margin-bottom: 20px;
+}
